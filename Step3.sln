@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step3", "Step3\Step3.csproj", "{D704CA22-00BB-4B34-AC26-1F80B5352BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step3Test", "Step3Test\Step3Test.csproj", "{639035A6-5F4C-4CDB-A07F-889A7A73D993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D704CA22-00BB-4B34-AC26-1F80B5352BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D704CA22-00BB-4B34-AC26-1F80B5352BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D704CA22-00BB-4B34-AC26-1F80B5352BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D704CA22-00BB-4B34-AC26-1F80B5352BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639035A6-5F4C-4CDB-A07F-889A7A73D993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639035A6-5F4C-4CDB-A07F-889A7A73D993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639035A6-5F4C-4CDB-A07F-889A7A73D993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639035A6-5F4C-4CDB-A07F-889A7A73D993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC382A8A-FD9C-47E0-A40A-D29765655A80}
+	EndGlobalSection
+EndGlobal

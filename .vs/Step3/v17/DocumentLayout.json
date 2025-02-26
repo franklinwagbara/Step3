@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task3\\Step3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D704CA22-00BB-4B34-AC26-1F80B5352BB9}|Step3\\Step3.csproj|c:\\users\\franklin wagbara\\documents\\turing\\production\\batch2\\task3\\step3\\step3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D704CA22-00BB-4B34-AC26-1F80B5352BB9}|Step3\\Step3.csproj|solutionrelative:step3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639035A6-5F4C-4CDB-A07F-889A7A73D993}|Step3Test\\Step3Test.csproj|c:\\users\\franklin wagbara\\documents\\turing\\production\\batch2\\task3\\step3\\step3test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639035A6-5F4C-4CDB-A07F-889A7A73D993}|Step3Test\\Step3Test.csproj|solutionrelative:step3test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task3\\Step3\\Step3Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Step3Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task3\\Step3\\Step3Test\\UnitTest1.cs",
+              "RelativeToolTip": "Step3Test\\UnitTest1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:00:44.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task3\\Step3\\Step3\\Program.cs",
+              "RelativeDocumentMoniker": "Step3\\Program.cs",
+              "ToolTip": "C:\\Users\\Franklin Wagbara\\Documents\\Turing\\Production\\batch2\\Task3\\Step3\\Step3\\Program.cs",
+              "RelativeToolTip": "Step3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:59:59.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
