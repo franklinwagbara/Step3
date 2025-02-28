@@ -103,3 +103,4 @@ C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task3\Step3\Step3Te
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task3\Step3\Step3Test\obj\Debug\net8.0\Step3Test.pdb
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task3\Step3\Step3Test\obj\Debug\net8.0\Step3Test.genruntimeconfig.cache
 C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task3\Step3\Step3Test\obj\Debug\net8.0\ref\Step3Test.dll
+C:\Users\Franklin Wagbara\Documents\Turing\Production\batch2\Task3\Step3\Step3Test\obj\Debug\net8.0\Step3Test.sourcelink.json

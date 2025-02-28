@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Step3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47942cb90bfbb71b573adb99a0cbe7e377ee21b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Step3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Step3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

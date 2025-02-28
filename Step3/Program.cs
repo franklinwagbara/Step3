@@ -1,4 +1,6 @@
-﻿public class GameLevel
+﻿using System;
+
+public class LevelCalculator
 {
     /// <summary>
     /// Calculates the actual level configuration for a given displayed level.
@@ -18,13 +20,19 @@
         {
             return displayedLevel;
         }
-
-        int offset = (displayedLevel - 351) % 251;
-        return 100 + offset;
+        else
+        {
+            int cycleLength = 350 - 100 + 1;
+            int offset = (displayedLevel - 350 - 1) % cycleLength;
+            return 100 + offset;
+        }
     }
+}
 
+public class Program
+{
     public static void Main(string[] args)
     {
-        Console.WriteLine(CalculateActualLevel(100));
+        Console.WriteLine(LevelCalculator.CalculateActualLevel(100));
     }
 }
